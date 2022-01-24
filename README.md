@@ -1,4 +1,4 @@
-# javascriptProjects
+# Javascript Projects
 
     ⏺ Color-Flipper
     ⏺ Countdown-timer
